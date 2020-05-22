@@ -4,8 +4,7 @@
 This creates characters for the game D&amp;D (5th edition).
 
 
-Go Here to Use this tool without downloading it.
-https://timtwalsh.github.io/5e-DnD-Character-Generator/
+**Go Here to Use this tool without downloading it:** https://timtwalsh.github.io/5e-DnD-Character-Generator/
 
 I didn't do anything except merge that pull request into the original tool and now you don't have to either.
 
